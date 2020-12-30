@@ -7,7 +7,7 @@
 
 ## 使用说明
 
-~~1、Star本项目~~
+~~1、Star本项目~~..
 
 1、Fork 本仓库，然后点击你的仓库右上角的 Settings，找到 Secrets 这一项，添加两个秘密环境变量`USERNAME`和`PASSWORD`。支持同时添加多个帐户，数据之间用半角逗号 `,` 隔开即可，帐户名和帐户密码需一一对应。
 
@@ -31,5 +31,5 @@ PASSWORD: 第一个账户密码,第二个账户密码
 2、由于Github Workflow的限制，你可能需要每两个月重新启动一下，方法是随便改下本README.md
 
 ## 参考（及本文档）
-
+..123
 hostloc-auto-get-points: https://github.com/inkuang/hostloc-auto-get-points  MIT License
